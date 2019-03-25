@@ -1,0 +1,3 @@
+spring:
+  appliction:
+    name: beta分支-beta环境-yml
